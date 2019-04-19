@@ -1,4 +1,4 @@
-//code for shortest job 
+
 #include<stdio.h>
 int main()
 {
